@@ -25,12 +25,9 @@ public final class Global
 	public static final String VERSION = "2.0.0";
 
 	/** 中文产品名称 */
-//	public static final String PRODUCT_NAME_ZH = "数据齿轮";
-	public static final String PRODUCT_NAME_ZH = "南方所数据魔方";
+	public static final String PRODUCT_NAME_ZH = "数据齿轮";
 	/** 英文产品名称 */
-//	public static final String PRODUCT_NAME_EN = "DataGear";
-	public static final String PRODUCT_NAME_EN = "NfsDataCube";
+	public static final String PRODUCT_NAME_EN = "DataGear";
 	/** 官网 */
-//	public static final String WEB_SITE = "http://www.datagear.tech";
-	public static final String WEB_SITE = "http://www.smei.net.cn";
+	public static final String WEB_SITE = "http://www.datagear.tech";
 }
